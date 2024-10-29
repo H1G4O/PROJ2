@@ -1,4 +1,4 @@
-# Sistema de Compras em C
+# Loja de Computadores
 
 ## Objetivo do Projeto
 Este projeto é um sistema de compras em C que permite ao usuário:
@@ -34,3 +34,15 @@ Menu Principal:
 0. Sair: Encerra o programa.
 Exemplo de Uso
 Após fazer login ou cadastro, o usuário verá o menu principal e poderá interagir conforme as opções descritas acima. Ao escolher "Listar Categorias de Produtos", o usuário pode navegar pelos produtos disponíveis em cada categoria e adicionar itens ao carrinho.
+
+
+#Alunos
+
+Ettore M T Lopes
+  22124032-8
+ 
+Higor Augusto C Aquino
+  22124027-8
+  
+Matheus Espindola Silva
+  22124068-2
