@@ -7,6 +7,9 @@ Este projeto é um sistema de compras em C que permite ao usuário:
 - Adicionar produtos ao carrinho, visualizar o carrinho, e finalizar compras.
 - Gerenciar a conta com funcionalidades de depósito e saque, além de visualizar o saldo.
 
+## Link para o Replit
+https://replit.com/@higor434/LegitimateHelplessQuote?v=1
+
 ## Compilação e Execução
 
 ### Pré-requisitos
