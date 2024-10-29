@@ -75,6 +75,3 @@ int main() {
         }
     }
 }
-
-
-teste 1
